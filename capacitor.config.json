@@ -1,0 +1,6 @@
+{
+  "appId": "com.estudecomflor.app",
+  "appName": "Estude com Flor",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}

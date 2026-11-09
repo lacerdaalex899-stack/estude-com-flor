@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Estude com Flor</string>
+    <string name="title_activity_main">Estude com Flor</string>
+    <string name="package_name">com.estudecomflor.app</string>
+    <string name="custom_url_scheme">com.estudecomflor.app</string>
+</resources>
